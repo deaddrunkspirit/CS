@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\bin\Debug\Task4.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\bin\Debug\Task4.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\bin\Debug\Task4.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\bin\Debug\Task4Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\bin\Debug\Task4Lib.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\obj\Debug\Task4.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\obj\Debug\Task4.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4\obj\Debug\Task4.pdb

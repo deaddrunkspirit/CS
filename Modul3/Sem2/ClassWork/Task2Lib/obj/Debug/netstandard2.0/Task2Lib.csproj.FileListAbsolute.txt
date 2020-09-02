@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\bin\Debug\netstandard2.0\Task2Lib.deps.json
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\bin\Debug\netstandard2.0\Task2Lib.dll
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\bin\Debug\netstandard2.0\Task2Lib.pdb
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\obj\Debug\netstandard2.0\Task2Lib.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\obj\Debug\netstandard2.0\Task2Lib.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\obj\Debug\netstandard2.0\Task2Lib.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\obj\Debug\netstandard2.0\Task2Lib.dll
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2Lib\obj\Debug\netstandard2.0\Task2Lib.pdb

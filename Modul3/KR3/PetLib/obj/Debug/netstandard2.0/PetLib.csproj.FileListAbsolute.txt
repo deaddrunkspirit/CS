@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\bin\Debug\netstandard2.0\PetLib.deps.json
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\bin\Debug\netstandard2.0\PetLib.dll
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\bin\Debug\netstandard2.0\PetLib.pdb
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\obj\Debug\netstandard2.0\PetLib.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\obj\Debug\netstandard2.0\PetLib.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\obj\Debug\netstandard2.0\PetLib.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\obj\Debug\netstandard2.0\PetLib.dll
+C:\Users\deaddrunkspirit\Desktop\KR3\PetLib\obj\Debug\netstandard2.0\PetLib.pdb

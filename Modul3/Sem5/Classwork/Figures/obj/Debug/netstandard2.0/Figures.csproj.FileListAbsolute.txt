@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\bin\Debug\netstandard2.0\Figures.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\bin\Debug\netstandard2.0\Figures.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\bin\Debug\netstandard2.0\Figures.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\obj\Debug\netstandard2.0\Figures.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\obj\Debug\netstandard2.0\Figures.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem5\Classwork\Figures\obj\Debug\netstandard2.0\Figures.pdb

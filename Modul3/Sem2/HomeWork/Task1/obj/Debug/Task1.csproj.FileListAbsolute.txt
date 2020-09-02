@@ -1,0 +1,6 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\bin\Debug\Task1.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\bin\Debug\Task1.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\bin\Debug\Task1.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\obj\Debug\Task1.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task1\obj\Debug\Task1.pdb

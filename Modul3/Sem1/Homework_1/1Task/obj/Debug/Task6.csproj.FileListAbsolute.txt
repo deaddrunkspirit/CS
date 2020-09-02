@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\bin\Debug\1Task.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\bin\Debug\1Task.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\bin\Debug\1Task.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\bin\Debug\Task6Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\bin\Debug\Task6Lib.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\obj\Debug\Task6.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\obj\Debug\1Task.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\1Task\obj\Debug\1Task.pdb

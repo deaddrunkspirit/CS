@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\bin\Debug\Task3.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\bin\Debug\Task3.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\bin\Debug\Task3.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\obj\Debug\Task3.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem3\ClassWork\Task3\obj\Debug\Task3.pdb

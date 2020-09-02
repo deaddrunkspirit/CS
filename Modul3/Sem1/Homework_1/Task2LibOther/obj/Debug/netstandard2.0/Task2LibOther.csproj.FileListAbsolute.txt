@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\bin\Debug\netstandard2.0\Task2LibOther.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\bin\Debug\netstandard2.0\Task2LibOther.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\bin\Debug\netstandard2.0\Task2LibOther.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\obj\Debug\netstandard2.0\Task2LibOther.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\obj\Debug\netstandard2.0\Task2LibOther.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\obj\Debug\netstandard2.0\Task2LibOther.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\obj\Debug\netstandard2.0\Task2LibOther.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task2LibOther\obj\Debug\netstandard2.0\Task2LibOther.pdb

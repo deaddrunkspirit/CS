@@ -1,0 +1,25 @@
+﻿<Window x:Class="FractalDrawingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FractalDrawingApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400" ResizeMode="CanResizeWithGrip">
+
+    <Grid Background="#ff4500">
+        <ListBox x:Name="fractalList" HorizontalAlignment="Left" Height="170" Margin="80,95,0,0"
+                 VerticalAlignment="Top" Width="240" Background="#adff2f">
+            <ListBoxItem Height="40" FontSize="20" >1. Pifagor tree</ListBoxItem>
+            <ListBoxItem Height="40" FontSize="20" >2. Serpinsky triangle</ListBoxItem>
+            <ListBoxItem Height="40" FontSize="20" >3. Triangle mass center</ListBoxItem>
+            <ListBoxItem Height="40" FontSize="20" >4. T square</ListBoxItem>
+        </ListBox>
+        <Label Content="Avaliable fractals" FontSize="30" HorizontalAlignment="Left"
+               Margin="80,45,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="240" />
+        <Button Content="Confirm choice" FontSize="24"
+                Click="confirmChoiceButton_Click" HorizontalAlignment="Left"
+                Margin="80,270,0,0" VerticalAlignment="Top" Width="240" Height="58"
+                Background="#adff2f" />
+    </Grid>
+</Window>

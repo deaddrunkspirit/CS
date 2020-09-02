@@ -1,0 +1,5 @@
+  double[] A = new double[10]; c маленькой буквы
+  Car c1 = new Car("SlugBug", 100, 10); название осмысленное делайте
+  for (int i = 0; i < 6; i++) лучше n=6
+  
+  10

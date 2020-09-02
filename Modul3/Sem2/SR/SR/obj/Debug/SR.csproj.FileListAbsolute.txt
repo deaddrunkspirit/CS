@@ -1,0 +1,6 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\bin\Debug\SR.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\bin\Debug\SR.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\bin\Debug\SR.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\obj\Debug\SR.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\obj\Debug\SR.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\SR\SR\obj\Debug\SR.pdb

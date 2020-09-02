@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.pdb

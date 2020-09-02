@@ -1,0 +1,12 @@
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\bin\Debug\Task4.exe.config
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\bin\Debug\Task4.exe
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\bin\Debug\Task4.pdb
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\obj\Debug\Task4.exe
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task4\obj\Debug\Task4.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\bin\Debug\Task4.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\bin\Debug\Task4.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\bin\Debug\Task4.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\obj\Debug\Task4.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\ClassWork\Task4\obj\Debug\Task4.pdb

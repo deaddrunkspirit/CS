@@ -1,0 +1,7 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\bin\Debug\netstandard2.0\Task3Lib.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\bin\Debug\netstandard2.0\Task3Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\bin\Debug\netstandard2.0\Task3Lib.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\obj\Debug\netstandard2.0\Task3Lib.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\obj\Debug\netstandard2.0\Task3Lib.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\obj\Debug\netstandard2.0\Task3Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task3Lib\obj\Debug\netstandard2.0\Task3Lib.pdb

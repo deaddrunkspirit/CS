@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\bin\Debug\Task2.exe.config
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\bin\Debug\Task2.exe
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\bin\Debug\Task2.pdb
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\bin\Debug\Task2Lib.dll
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\bin\Debug\Task2Lib.pdb
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\obj\Debug\Task2.exe
+C:\Users\deaddrunkspirit\source\repos\ClassWork_22.01.2020\Task2\obj\Debug\Task2.pdb

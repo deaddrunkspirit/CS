@@ -1,0 +1,6 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\bin\Debug\Task8.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\bin\Debug\Task8.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\bin\Debug\Task8.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\obj\Debug\Task8.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\obj\Debug\Task8.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\Sem_1\Task8\obj\Debug\Task8.pdb

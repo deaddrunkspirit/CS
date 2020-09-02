@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR2Events", "SR2Events\SR2Events.csproj", "{20B03999-34AB-4364-9629-92383D88331B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLibrary", "MyClassLibrary\MyClassLibrary.csproj", "{D1736760-A023-4592-81A3-C975FE35FD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B03999-34AB-4364-9629-92383D88331B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B03999-34AB-4364-9629-92383D88331B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B03999-34AB-4364-9629-92383D88331B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B03999-34AB-4364-9629-92383D88331B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1736760-A023-4592-81A3-C975FE35FD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1736760-A023-4592-81A3-C975FE35FD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1736760-A023-4592-81A3-C975FE35FD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1736760-A023-4592-81A3-C975FE35FD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0B669E-57AE-4409-8401-2CDB4CBD2B85}
+	EndGlobalSection
+EndGlobal

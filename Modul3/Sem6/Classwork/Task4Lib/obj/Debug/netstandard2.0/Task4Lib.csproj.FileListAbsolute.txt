@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\bin\Debug\netstandard2.0\Task4Lib.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\bin\Debug\netstandard2.0\Task4Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\bin\Debug\netstandard2.0\Task4Lib.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\obj\Debug\netstandard2.0\Task4Lib.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\obj\Debug\netstandard2.0\Task4Lib.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\obj\Debug\netstandard2.0\Task4Lib.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\obj\Debug\netstandard2.0\Task4Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem6\Classwork\Task4Lib\obj\Debug\netstandard2.0\Task4Lib.pdb

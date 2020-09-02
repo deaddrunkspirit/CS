@@ -1,0 +1,13 @@
+﻿<Window x:Class="FractalDrawingApp.DrawingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FractalDrawingApp"
+        mc:Ignorable="d"
+        Title="DrawingWindow" Height="450" Width="800">
+    <Grid>
+        <Polygon Points="100,50 400,50" />
+        <Canvas x:Name="drawingArea" Width="500" Height="350" Background="Aqua" />
+    </Grid>
+</Window>

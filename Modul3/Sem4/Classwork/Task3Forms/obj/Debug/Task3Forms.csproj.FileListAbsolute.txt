@@ -1,0 +1,12 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\bin\Debug\Task3Forms.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\bin\Debug\Task3Forms.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\bin\Debug\Task3Forms.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\bin\Debug\Task3Lib.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\bin\Debug\Task3Lib.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.Form1.resources
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.Properties.Resources.resources
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.csproj.GenerateResource.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem4\Classwork\Task3Forms\obj\Debug\Task3Forms.pdb

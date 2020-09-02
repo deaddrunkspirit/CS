@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\bin\Debug\Test.exe.config
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\bin\Debug\Test.exe
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\bin\Debug\Test.pdb
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\bin\Debug\PetLib.dll
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\bin\Debug\PetLib.pdb
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\obj\Debug\Test.exe
+C:\Users\deaddrunkspirit\Desktop\KR3\Test\obj\Debug\Test.pdb

@@ -1,0 +1,19 @@
+﻿4	 public, private, protected, internal, protected internal, private protected  https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/event
+
+5	41			https://habr.com/ru/post/213809/
+
+6	2416
+
+7	3			https://docs.microsoft.com/ru-ru/dotnet/api/system.eventhandler?view=netframework-4.8
+
+8	12			https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/event
+
+9	92525
+
+10	3 - тело метода не подходит событию
+
+11	124			https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/event https://professorweb.ru/my/csharp/charp_theory/level10/10_7.php
+
+12	с			https://habr.com/ru/post/213809/
+
+13	*** -		https://metanit.com/sharp/tutorial/3.14.php

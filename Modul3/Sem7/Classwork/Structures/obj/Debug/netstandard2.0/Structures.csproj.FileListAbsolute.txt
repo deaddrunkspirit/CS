@@ -1,0 +1,8 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\bin\Debug\netstandard2.0\Structures.deps.json
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\bin\Debug\netstandard2.0\Structures.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\bin\Debug\netstandard2.0\Structures.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\obj\Debug\netstandard2.0\Structures.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\obj\Debug\netstandard2.0\Structures.AssemblyInfoInputs.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\obj\Debug\netstandard2.0\Structures.AssemblyInfo.cs
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\obj\Debug\netstandard2.0\Structures.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\Modul3\Sem7\Classwork\Structures\obj\Debug\netstandard2.0\Structures.pdb

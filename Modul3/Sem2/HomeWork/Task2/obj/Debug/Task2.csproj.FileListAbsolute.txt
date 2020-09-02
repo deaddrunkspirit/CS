@@ -1,0 +1,5 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task2\bin\Debug\Task2.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task2\bin\Debug\Task2.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task2\bin\Debug\Task2.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task2\obj\Debug\Task2.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\Sem2\HomeWork\Task2\obj\Debug\Task2.pdb

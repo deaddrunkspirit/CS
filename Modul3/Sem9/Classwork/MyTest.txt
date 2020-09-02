@@ -1,0 +1,12 @@
+0,290	0,117	Magenta
+0,494	0,210	Green
+0,715	0,859	BlueViolet
+0,795	0,759	Green
+0,102	0,612	Lime
+0,591	0,152	DarkGreen
+0,759	0,567	DarkRed
+0,360	0,904	DarkGreen
+0,476	0,590	BlueViolet
+0,310	0,683	Green
+0,908	0,394	Red
+0,475	0,893	Brown

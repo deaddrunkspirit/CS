@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\bin\Debug\SR2Events.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\bin\Debug\SR2Events.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\bin\Debug\SR2Events.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\bin\Debug\MyClassLibrary.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\bin\Debug\MyClassLibrary.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\obj\Debug\SR2Events.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\obj\Debug\SR2Events.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\obj\Debug\SR2Events.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\Programming C#\3Modul\196MosolkovEugen\Modul3\SR2Events\SR2Events\obj\Debug\SR2Events.pdb
