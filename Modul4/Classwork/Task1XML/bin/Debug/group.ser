@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>SE196</id>
+  <list>
+    <Student>
+      <name>Mosolkov</name>
+      <year>1</year>
+    </Student>
+    <Student>
+      <name>Dilavar</name>
+      <year>2</year>
+    </Student>
+    <Student>
+      <name>Vislovich</name>
+      <year>3</year>
+    </Student>
+  </list>
+</Group>

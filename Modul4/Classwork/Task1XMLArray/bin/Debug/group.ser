@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <id>SE172</id>
+    <list>
+      <Student>
+        <name>Ivanov</name>
+        <year>1</year>
+      </Student>
+      <Student>
+        <name>Petrov</name>
+        <year>2</year>
+      </Student>
+      <Student>
+        <name>Sidorov</name>
+        <year>3</year>
+      </Student>
+    </list>
+  </Group>
+  <Group>
+    <id>SE196</id>
+    <list>
+      <Student>
+        <name>Mosolkov</name>
+        <year>1</year>
+      </Student>
+      <Student>
+        <name>Dilavar</name>
+        <year>2</year>
+      </Student>
+      <Student>
+        <name>Vislovich</name>
+        <year>3</year>
+      </Student>
+    </list>
+  </Group>
+</ArrayOfGroup>

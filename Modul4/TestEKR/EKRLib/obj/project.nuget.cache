@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDDEWWohjVlsHJH+MuQ2lO+L2Nk7/Z6orb5P2e08lW6BNCexjvuWb/Edr2vB6p8nYfJ9XxexWgDHa3KTEui8Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deaddrunkspirit\\Desktop\\TestEKR\\EKRLib\\EKRLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deaddrunkspirit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
